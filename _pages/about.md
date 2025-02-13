@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a forth-year Ph.D. candidate at The Chinese University of Hong Kong, supervised by Prof. Raymond Tong (AIMBE Fellow). I am also co-trained at Cavendish Laboratory Center for Radiothreapy, the University of Cambridge, working with Prof.Rajesh Jena from the Department of Oncology. I obtained my M.S. in Information and signal processing at University of Chinese Academy of Sciences in 2019, and B.Eng in Biomedical Engineering in Beijing Institude of Techology in 2016. I'm a recipient of the CUHK Vice-Chancellor's PhD Fellowship.
+I am a forth-year Ph.D. candidate at The Chinese University of Hong Kong, supervised by Prof. Raymond Tong (AIMBE Fellow). I am also co-trained at Cavendish Laboratory for Computational Radiothreapy, the University of Cambridge, working with Prof.Rajesh Jena. I obtained my M.S. in Information and signal processing at University of Chinese Academy of Sciences in 2019, and B.Eng in Biomedical Engineering in Beijing Institude of Techology in 2016. I'm a recipient of the CUHK Vice-Chancellor's PhD Fellowship.
 
 News
 ======
