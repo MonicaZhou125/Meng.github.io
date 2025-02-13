@@ -7,13 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a forth-year Ph.D. candidate at The Chinese University of Hong Kong, supervised by Prof. Raymond Tong (AIMBE Fellow). I am also co-trained at Cavendish Laboratory Center for Radiothreapy,the University of Cambridge, working with Prof.Rajesh Jena from the Department of Oncology. I obtained my M.S. in Information and signal processing at University of Chinese Academy of Sciences in 2019, and B.Eng in Biomedical Engineering in Beijing Institude of Techology in 2016. I'm a recipient of the CUHK Vice-Chancellor's Hong Kong PhD Fellowship.
+I am a forth-year Ph.D. candidate at The Chinese University of Hong Kong, supervised by Prof. Raymond Tong (AIMBE Fellow). I am also co-trained at Cavendish Laboratory Center for Radiothreapy, the University of Cambridge, working with Prof.Rajesh Jena from the Department of Oncology. I obtained my M.S. in Information and signal processing at University of Chinese Academy of Sciences in 2019, and B.Eng in Biomedical Engineering in Beijing Institude of Techology in 2016. I'm a recipient of the CUHK Vice-Chancellor's PhD Fellowship.
 
-A data-driven personal website
+News
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+[01/2025] Moved to Cambridge, UK and joined Cavendish Laboratory for Computational Radiotherapy /Cambridge as a visiting PhD student!
+[12/2024] Glad to be supported by Overseas Research Attachment Programme (CUHK Eng, 12 awardees per year)!
+[07/2024] 1 paper on Semi/Weakly-Supervised learning was accepted by BIBM2024
+[06/2023] 1 paper on weakly supervised learning was accepted by MICCAI 2023
+[06/2023] 1 paper on source-free unsupervised domain adapation was accepted by Computers in Biology and Medicine (IF=7.7)!
+[08/2021] Glad to be CUHK Vice-Chancellor's PhD Fellowship Awardee
+[03/2019] Outstanding Graduate at Unversity of Chinese Academy of Sciences
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 Getting started
 ======
