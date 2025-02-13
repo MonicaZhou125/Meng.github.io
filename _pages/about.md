@@ -11,13 +11,13 @@ I am a forth-year Ph.D. candidate at The Chinese University of Hong Kong, superv
 
 News
 ======
-[01/2025] Moved to Cambridge, UK and joined Cavendish Laboratory for Computational Radiotherapy /Cambridge as a visiting PhD student!
-[12/2024] Glad to be supported by Overseas Research Attachment Programme (CUHK Eng, 12 awardees per year)!
-[07/2024] 1 paper on Semi/Weakly-Supervised learning was accepted by BIBM2024
-[06/2023] 1 paper on weakly supervised learning was accepted by MICCAI 2023
-[06/2023] 1 paper on source-free unsupervised domain adapation was accepted by Computers in Biology and Medicine (IF=7.7)!
-[08/2021] Glad to be CUHK Vice-Chancellor's PhD Fellowship Awardee
-[03/2019] Outstanding Graduate at Unversity of Chinese Academy of Sciences
+[01/2025] Moved to Cambridge, UK and joined Cavendish Laboratory for Computational Radiotherapy /Cambridge as a visiting PhD student!//
+[12/2024] Glad to be supported by Overseas Research Attachment Programme (CUHK Eng, 12 awardees per year)!//
+[07/2024] 1 paper on Semi/Weakly-Supervised learning was accepted by BIBM2024//
+[06/2023] 1 paper on weakly supervised learning was accepted by MICCAI 2023//
+[06/2023] 1 paper on source-free unsupervised domain adapation was accepted by Computers in Biology and Medicine (IF=7.7)!//
+[08/2021] Glad to be CUHK Vice-Chancellor's PhD Fellowship Awardee//
+[03/2019] Outstanding Graduate at Unversity of Chinese Academy of Sciences//
 
 
 Getting started
