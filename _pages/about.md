@@ -47,9 +47,9 @@ Honors & Awards
 ------
 [12/2024] Overseas Research Attachment Programme Fellowship by CUHK Engineering.  
 [08/2021] The Chinese University of Hong Kong: CUHK Vice-Chancellor’s PhD Scholarship (HK$ 1 Million).  
-[03/2019] Outstanding Graduate at Unversity of Chinese Academy of Sciences.  
+[03/2019] [Outstanding Graduate at Unversity of Chinese Academy of Sciences](/images/outstanding.png).  
 [02/2019] Zengwei Anxin Scholarship at Chinese Academy of Sciences, Shanghai Institute of Advanced Research (Two students per year).  
-[03/2018] "Three good" student at Unversity of Chinese Academy of Sciences.  
+[03/2018] ["Three good" student at Unversity of Chinese Academy of Sciences](/images/tree.png).  
 
 Woring Experience
 ------
