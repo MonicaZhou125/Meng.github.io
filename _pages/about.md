@@ -66,7 +66,7 @@ Teaching
 Skill & Interests
 ------
 Skills: Proficient in: Python (daily usage), Shell (regular usage), Familiar with: Matlab, C and C++.  
-Certifications: [Certified Psychological Counselor Certificate issued by the Chinese Academy of Sciences(CAS)](/images/xinli.png)
+Certifications: [Certified Psychological Counselor Certificate issued by the Chinese Academy of Sciences(CAS)](/images/xinli.png); [National Level 3 Public Nutritionist](/images/yingyang.png)
 
 
 [![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com)Certified Psychological Counselor Certificate issued by the Chinese Academy of Sciences (CAS);National Level 3 Public Nutritionist (China).  
