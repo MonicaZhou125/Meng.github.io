@@ -53,8 +53,8 @@ Honors & Awards
 
 Woring Experience
 ------
-Jul 2019 - Apr 2021 Honeywell Home Algorithm Engineer, Complete related experiments and algorithms of intelligent monitoring.  
-Jul 2017 - Sep 2017 Spreadtrum Communications Campany Internship, Complete the image processing and parameters optimization of the mobile phone camera system
+[07/2019 - 04/2021] Honeywell Home Algorithm Engineer, Complete related experiments and algorithms of intelligent monitoring.  
+[06/2017 - 09/2017] Spreadtrum Communications Campany Internship, Complete the image processing and parameters optimization of the mobile phone camera system
 
 Teaching
 ------
