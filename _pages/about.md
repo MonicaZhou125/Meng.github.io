@@ -22,6 +22,15 @@ News
 [10/2018] 1 paper on Noise Reduction Method for Photoacoustic Imaging In Vivo was accepted by IEEE Photonics Journal!  
 [03/2018] 1 paper on Wavelet de-noising method for photoacoustic tomography was accepted by EMBC 2018!
 
+Education
+------
+The Chinese University of Hong Kong PhD in Biomedical Engineering (Supervisor: Prof. Raymond Kai-Yu TONG) Aug 2021 - Jul 2025  
+Research areas: Weakly supervised learning; Label-efficient learning; Deep Learning for medical image analysis  
+University of Chinese Academy of Sciences，M.S. in Information and signal processing (Supervisor: Prof. Haibo Xia) Sep 2016 - Jun 2019  
+Shanghai Tech University Visiting Student of Hybird Imaging System Laboratory ( Supervisor: Photoacoustic Tomography Scientist Prof. Fei Gao)
+Oct 2017 - May 2019  
+Research areas: Photoacoustic signal and imaging processing, de-noising algorithm, breast cancer diagnosis  
+Beijing Institude of Techology B.E. in Biomedical engineering Sep 2012 - Jul 2016  
 
 Selected Publications
 ======
