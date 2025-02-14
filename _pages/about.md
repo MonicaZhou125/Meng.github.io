@@ -71,7 +71,7 @@ Teaching
 Skill & Interests
 ======
 Skills: Proficient in: Python (daily usage), Shell (regular usage), Familiar with: Matlab, C and C++.  
-Certifications: [Certified Psychological Counselor Certificate issued by the Chinese Academy of Sciences(CAS)](images/xinli.png); [National Level 3 Public Nutritionist](https://github.com/MonicaZhou125/Meng.github.io/images/yingyang.png).  
+Certifications: [Certified Psychological Counselor Certificate issued by the Chinese Academy of Sciences(CAS)](../images/xinli.png); [National Level 3 Public Nutritionist](https://github.com/MonicaZhou125/Meng.github.io/images/yingyang.png).  
 Interests: Swimming, Photography, Movies, Gym.     
 GRE general test: Q:170, V:153,W:3.0  
 
