@@ -25,15 +25,16 @@ News
 
 Selected Publications
 ======
-1. Weakly Supervised Medical Image Segmentation via Superpixel-guided Scribble Walking and Class-wise Contrastive Regularization, **Meng Zhou**, Zhe Xu, Kang Zhou, Raymond Tong. Medical Image Computing and Computer Assisted Interventions (MICCAI), 2023.
-2. Superpixel-guided class-level denoising for unsupervised domain adaptive fundus image segmentation without source data, **Meng Zhou**, Zhe Xu, Raymond Tong. Computers in Biology and Medicine 162, 107061.
-3. A Noise Reduction Method for Photoacoustic Imaging In Vivo Based on EMD and Conditional Mutual Information,**MZhou**M Zhou, H Xia, H Zhong, J Zhang, F Gao,IEEE Photonics Journal 11 (1), 1-10
-4. Photoacoustic image classification and segmentation of breast cancer: a feasibility studyJ Zhang, B Chen, **M Zhou**, H Lan, F Gao,IEEE Access 7, 5457-5466
-5. Wavelet de-noising method with adaptive threshold selection for photoacoustic tomography,**M Zhou**, H Xia, H Lan, T Duan, H Zhong, F Gao
+1.Boundary-Enhanced and Density-Guided Contrastive Learning for Semi/Weakly-Supervised Medical Image Segmentation,**Meng Zhou**, Fei Gao, Raymond Kai-Yu Tong, 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM).
+2. Weakly Supervised Medical Image Segmentation via Superpixel-guided Scribble Walking and Class-wise Contrastive Regularization, **Meng Zhou**, Zhe Xu, Kang Zhou, Raymond Tong. Medical Image Computing and Computer Assisted Interventions (MICCAI), 2023.
+3. Superpixel-guided class-level denoising for unsupervised domain adaptive fundus image segmentation without source data, **Meng Zhou**, Zhe Xu, Raymond Tong. Computers in Biology and Medicine 162, 107061.
+4. A Noise Reduction Method for Photoacoustic Imaging In Vivo Based on EMD and Conditional Mutual Information,**MZhou**M Zhou, H Xia, H Zhong, J Zhang, F Gao,IEEE Photonics Journal 11 (1), 1-10
+5. Photoacoustic image classification and segmentation of breast cancer: a feasibility studyJ Zhang, B Chen, **M Zhou**, H Lan, F Gao,IEEE Access 7, 5457-5466
+6. Wavelet de-noising method with adaptive threshold selection for photoacoustic tomography,**M Zhou**, H Xia, H Lan, T Duan, H Zhong, F Gao
 2018 EMBC.
 
 
-Site-wide configuration
+Honors & Awards
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
