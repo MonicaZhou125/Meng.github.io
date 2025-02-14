@@ -25,13 +25,13 @@ News
 
 Selected Publications
 ======
-Weakly Supervised Medical Image Segmentation via Superpixel-guided Scribble Walking and Class-wise Contrastive Regularization**Meng Zhou**, Zhe Xu, Kang Zhou, Raymond Tong. Medical Image Computing and Computer Assisted Interventions (MICCAI), 2023.
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. Weakly Supervised Medical Image Segmentation via Superpixel-guided Scribble Walking and Class-wise Contrastive Regularization, **Meng Zhou**, Zhe Xu, Kang Zhou, Raymond Tong. Medical Image Computing and Computer Assisted Interventions (MICCAI), 2023.
+2. Superpixel-guided class-level denoising for unsupervised domain adaptive fundus image segmentation without source data, **Meng Zhou**, Zhe Xu, Raymond Tong. Computers in Biology and Medicine 162, 107061.
+3. A Noise Reduction Method for Photoacoustic Imaging In Vivo Based on EMD and Conditional Mutual Information,**MZhou**M Zhou, H Xia, H Zhong, J Zhang, F Gao,IEEE Photonics Journal 11 (1), 1-10
+4. Photoacoustic image classification and segmentation of breast cancer: a feasibility studyJ Zhang, B Chen, **M Zhou**, H Lan, F Gao,IEEE Access 7, 5457-5466
+5. Wavelet de-noising method with adaptive threshold selection for photoacoustic tomography,**M Zhou**, H Xia, H Lan, T Duan, H Zhong, F Gao
+2018 EMBC.
+
 
 Site-wide configuration
 ------
