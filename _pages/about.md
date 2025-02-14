@@ -36,12 +36,11 @@ Selected Publications
 ======
 
 1. [Weakly Supervised Medical Image Segmentation via Superpixel-guided Scribble Walking and Class-wise Contrastive Regularization](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_13), **Meng Zhou**, Zhe Xu, Kang Zhou, Raymond Tong. Medical Image Computing and Computer Assisted Interventions (MICCAI), 2023.  
-2. [Boundary-Enhanced and Density-Guided Contrastive Learning for Semi/Weakly-Supervised Medical Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10822827),**Meng Zhou**, Fei Gao, Raymond Kai-Yu Tong, 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM).  
+2. [Boundary-Enhanced and Density-Guided Contrastive Learning for Semi/Weakly-Supervised Medical Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10822827), **Meng Zhou**, Fei Gao, Raymond Kai-Yu Tong, 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM).  
 3. [Superpixel-guided class-level denoising for unsupervised domain adaptive fundus image segmentation without source data](https://www.sciencedirect.com/science/article/pii/S0010482523005267), **Meng Zhou**, Zhe Xu, Raymond Tong. Computers in Biology and Medicine 162, 107061.  
-6. [A Noise Reduction Method for Photoacoustic Imaging In Vivo Based on EMD and Conditional Mutual Information](https://www.sciencedirect.com/science/article/pii/S0010482523005267),**M Zhou**, H Xia, H Zhong, J Zhang, F Gao,IEEE Photonics Journal 11 (1), 1-10
-8. [Photoacoustic image classification and segmentation of breast cancer: a feasibility study](https://www.sciencedirect.com/science/article/pii/S0010482523005267),J Zhang, B Chen, **M Zhou**, H Lan, F Gao,IEEE Access 7, 5457-5466,   
-9. [Wavelet de-noising method with adaptive threshold selection for photoacoustic tomography],**M Zhou**, H Xia, H Lan, T Duan, H Zhong, F Gao
-2018 EMBC.(https://ieeexplore.ieee.org/abstract/document/8631620)
+6. [A Noise Reduction Method for Photoacoustic Imaging In Vivo Based on EMD and Conditional Mutual Information](https://www.sciencedirect.com/science/article/pii/S0010482523005267), **M Zhou**, H Xia, H Zhong, J Zhang, F Gao,IEEE Photonics Journal 11 (1), 1-10
+8. [Photoacoustic image classification and segmentation of breast cancer: a feasibility study](https://ieeexplore.ieee.org/abstract/document/8586863),J Zhang, B Chen, **M Zhou**, H Lan, F Gao,IEEE Access 7, 5457-5466.    
+9 [Wavelet de-noising method with adaptive threshold selection for photoacoustic tomography](https://ieeexplore.ieee.org/abstract/document/8631620), **M Zhou**, H Xia, H Lan, T Duan, H Zhong, F Gao 2018 EMBC.
 
 
 Honors & Awards
