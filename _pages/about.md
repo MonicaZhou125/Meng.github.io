@@ -13,8 +13,8 @@ News
 ======
 [02/2025] Moved to Cambridge, UK and joined Cavendish Laboratory for Computational Radiotherapy /Cambridge as a visiting PhD student!  
 [12/2024] Glad to be supported by Overseas Research Attachment Programme (CUHK Eng, 12 awardees per year)!  
-[07/2024] 1 paper on Semi/Weakly-Supervised learning was accepted by [BIBM2024](https://ieeexplore.ieee.org/abstract/document/10822827)
-[06/2023] 1 paper on weakly supervised learning was accepted by [MICCAI 2023](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_13) 
+[07/2024] 1 paper on Semi/Weakly-Supervised learning was accepted by [BIBM2024](https://ieeexplore.ieee.org/abstract/document/10822827)  
+[06/2023] 1 paper on weakly supervised learning was accepted by [MICCAI 2023](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_13)   
 [06/2023] 1 paper on source-free unsupervised domain adapation was accepted by [Computers in Biology and Medicine](https://www.sciencedirect.com/science/article/pii/S0010482523005267)(IF=7.7)!  
 [08/2021] Glad to be **CUHK Vice-Chancellor's PhD Fellowship** Awardee  
 [03/2019] **Outstanding Graduate** at Unversity of Chinese Academy of Sciences  
