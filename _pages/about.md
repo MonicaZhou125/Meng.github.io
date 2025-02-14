@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a forth-year Ph.D. candidate at The Chinese University of Hong Kong, supervised by Prof. Raymond Tong (AIMBE Fellow). I am also co-trained at Cavendish Laboratory for Computational Radiothreapy, the University of Cambridge, working with Prof.Rajesh Jena. I obtained my M.S. in Information and signal processing at University of Chinese Academy of Sciences in 2019, and B.Eng in Biomedical Engineering in Beijing Institude of Techology in 2016. I'm a recipient of the CUHK Vice-Chancellor's PhD Fellowship.
+I am a forth-year Ph.D. candidate at The Chinese University of Hong Kong, supervised by Prof. Raymond Tong (AIMBE Fellow). I am also co-trained at Cavendish Laboratory for Computational Radiothreapy, the University of Cambridge, working with Prof.Rajesh Jena. I obtained my M.S. in Information and signal processing at University of Chinese Academy of Sciences in 2019, and B.Eng in Biomedical Engineering in Beijing Institude of Techology in 2016. I'm a recipient of the CUHK Vice-Chancellor's PhD Fellowship.  
+My research is centered on advancing medical image analysis through AI to foster affordable and accurate medical decision-making. Recently, I have focused on 1) unsupervised domain adaptation, 2) weakly supervised learning, 3）photoacoustic imaging and application and 4) developing clinical models for practical medical applications.
 
 News
 ======
@@ -22,26 +23,23 @@ News
 [10/2018] 1 paper on Noise Reduction Method for Photoacoustic Imaging In Vivo was accepted by IEEE Photonics Journal!  
 [03/2018] 1 paper on Wavelet de-noising method for photoacoustic tomography was accepted by EMBC 2018!
 
-Education
-------
-[02/2025-now]  **Visiting Student**， the University of Cambridge Cavendish Laboratory for Computational Radiotherapy（Prof.Raj Resh)  
-[08/2021 - now] **PhD in Biomedical Engineering**，The Chinese University of Hong Kong    
-**Research areas**: Weakly supervised learning; Label-efficient learning; Deep Learning for medical image analysis  
-[09/2016-06/2019] **M.S. in Information and signal processing**， University of Chinese Academy of Sciences  
-[10/2017-05/2019] **Visiting Student**，Shanghai Tech University of Hybird Imaging System Laboratory (Supervisor: Photoacoustic Tomography Scientist Prof. Fei Gao)  
-**Research areas**: Photoacoustic signal and imaging processing, de-noising algorithm, breast cancer diagnosis  
-[09/2012-06/2016] **B.E. in Biomedical engineering**， Beijing Institude of Techology
 
+Education
+======
+* Visiting Student in Cavendish Laboratory for Computational Radiotherapy, the University of Cambridge, 2025 
+* **Ph.D** in Biomedical Engineering, The Chinese University of Hong Kong, 2025 (expected)
+* **M.S.** in Information and signal processing, University of Chinese Academy of Sciences 2019
+* Visiting Student，Shanghai Tech University of Hybird Imaging System Laboratory (Supervisor: Photoacoustic Tomography Scientist Prof. Fei Gao)  2017-2019
+* **B.S.** in Biomedical engineering, Beijing Institude of Techology, 2016
 Selected Publications
 ======
 
-1. [Weakly Supervised Medical Image Segmentation via Superpixel-guided Scribble Walking and Class-wise Contrastive Regularization](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_13), **Meng Zhou**, Zhe Xu, Kang Zhou, Raymond Tong, Medical Image Computing and Computer Assisted Interventions (MICCAI), 2023.  
-2. [Boundary-Enhanced and Density-Guided Contrastive Learning for Semi/Weakly-Supervised Medical Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10822827), **Meng Zhou**, Fei Gao, Raymond Kai-Yu Tong, 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM).  
-3. [Superpixel-guided class-level denoising for unsupervised domain adaptive fundus image segmentation without source data](https://www.sciencedirect.com/science/article/pii/S0010482523005267), **Meng Zhou**, Zhe Xu, Raymond Tong, Computers in Biology and Medicine 162, 107061.
-4. [A Noise Reduction Method for Photoacoustic Imaging In Vivo Based on EMD and Conditional Mutual Information](https://www.sciencedirect.com/science/article/pii/S0010482523005267), **Meng Zhou**, H Xia, H Zhong, J Zhang, F Gao, IEEE Photonics Journal 11 (1), 1-10
-5. [Photoacoustic image classification and segmentation of breast cancer: a feasibility study](https://ieeexplore.ieee.org/abstract/document/8586863), J Zhang, B Chen, **Meng Zhou**, H Lan, F Gao, IEEE Access 7, 5457-5466.
-6. [Wavelet de-noising method with adaptive threshold selection for photoacoustic tomography](https://ieeexplore.ieee.org/abstract/document/8631620), **Meng Zhou**, H Xia, H Lan, T Duan, H Zhong, F Gao, EMBC 2018.
-
+* [Weakly Supervised Medical Image Segmentation via Superpixel-guided Scribble Walking and Class-wise Contrastive Regularization](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_13), **Meng Zhou**, Zhe Xu, Kang Zhou, Raymond Tong, Medical Image Computing and Computer Assisted Interventions (MICCAI), 2023.  
+* [Boundary-Enhanced and Density-Guided Contrastive Learning for Semi/Weakly-Supervised Medical Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10822827), **Meng Zhou**, Fei Gao, Raymond Kai-Yu Tong, 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM).  
+* [Superpixel-guided class-level denoising for unsupervised domain adaptive fundus image segmentation without source data](https://www.sciencedirect.com/science/article/pii/S0010482523005267), **Meng Zhou**, Zhe Xu, Raymond Tong, Computers in Biology and Medicine 162, 107061.
+* [A Noise Reduction Method for Photoacoustic Imaging In Vivo Based on EMD and Conditional Mutual Information](https://www.sciencedirect.com/science/article/pii/S0010482523005267), **Meng Zhou**, H Xia, H Zhong, J Zhang, F Gao, IEEE Photonics Journal 11 (1), 1-10
+* [Photoacoustic image classification and segmentation of breast cancer: a feasibility study](https://ieeexplore.ieee.org/abstract/document/8586863), J Zhang, B Chen, **Meng Zhou**, H Lan, F Gao, IEEE Access 7, 5457-5466.
+* [Wavelet de-noising method with adaptive threshold selection for photoacoustic tomography](https://ieeexplore.ieee.org/abstract/document/8631620), **Meng Zhou**, H Xia, H Lan, T Duan, H Zhong, F Gao, EMBC 2018.
 
 Honors & Awards
 ------
@@ -50,11 +48,16 @@ Honors & Awards
 [03/2019] [Outstanding Graduate at Unversity of Chinese Academy of Sciences](https://github.com/MonicaZhou125/Meng.github.io/blob/master/images/outstanding.png).  
 [02/2019] Zengwei Anxin Scholarship at Chinese Academy of Sciences, Shanghai Institute of Advanced Research (Two students per year).  
 [03/2018] ["Three good" student at Unversity of Chinese Academy of Sciences](https://github.com/MonicaZhou125/Meng.github.io/blob/master/images/tree.png).  
+  
+Work experience
+======
+* 07/2019 - 04/2021: Algorithm Engineer
+  * Honeywell Home
+  * Duties includes: Complete related experiments and algorithms of intelligent monitoring
 
-Woring Experience
-------
-[07/2019 - 04/2021] Honeywell Home Algorithm Engineer, Complete related experiments and algorithms of intelligent monitoring.  
-[06/2017 - 09/2017] Spreadtrum Communications Campany Internship, Complete the image processing and parameters optimization of the mobile phone camera system
+* 06/2017 - 09/2017: Internship
+  * Spreadtrum Communications Campany
+  * Duties included: Complete the image processing and parameters optimization of the mobile phone camera system
 
 Teaching
 ------
