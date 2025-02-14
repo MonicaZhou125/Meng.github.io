@@ -31,6 +31,8 @@ Education
 * **M.S.** in Information and signal processing, University of Chinese Academy of Sciences 2019
 * Visiting Student，Shanghai Tech University of Hybird Imaging System Laboratory (Supervisor: Photoacoustic Tomography Scientist Prof. Fei Gao)  2017-2019
 * **B.S.** in Biomedical engineering, Beijing Institude of Techology, 2016
+
+
 Selected Publications
 ======
 
@@ -42,7 +44,7 @@ Selected Publications
 * [Wavelet de-noising method with adaptive threshold selection for photoacoustic tomography](https://ieeexplore.ieee.org/abstract/document/8631620), **Meng Zhou**, H Xia, H Lan, T Duan, H Zhong, F Gao, EMBC 2018.
 
 Honors & Awards
-------
+======
 [12/2024] Overseas Research Attachment Programme Fellowship by CUHK Engineering.  
 [08/2021] The Chinese University of Hong Kong: CUHK Vice-Chancellor’s PhD Scholarship (HK$ 1 Million).  
 [03/2019] [Outstanding Graduate at Unversity of Chinese Academy of Sciences](https://github.com/MonicaZhou125/Meng.github.io/blob/master/images/outstanding.png).  
@@ -60,14 +62,14 @@ Work experience
   * Duties included: Complete the image processing and parameters optimization of the mobile phone camera system
 
 Teaching
-------
+======
 2023-2024 Spring Linear Algebra for Engineers ((TA, ENGG1120)  
 2022-2023	Fall	Big Data in Healthcare (TA, BMEG 3103)  
 2021-2022 Fall  Linear Algebra for Engineers ((TA, ENGG1120)  
 2021-2022	Spring	Big Data in Healthcare (TA, BMEG 3103)  
 
 Skill & Interests
-------
+======
 Skills: Proficient in: Python (daily usage), Shell (regular usage), Familiar with: Matlab, C and C++.  
 Certifications: [Certified Psychological Counselor Certificate issued by the Chinese Academy of Sciences(CAS)](https://github.com/MonicaZhou125/Meng.github.io/blob/master/images/xinli.png); [National Level 3 Public Nutritionist](https://github.com/MonicaZhou125/Meng.github.io/images/yingyang.png).  
 Interests: Swimming, Photography, Movies, Gym.     
