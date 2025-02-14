@@ -11,7 +11,7 @@ I am a forth-year Ph.D. candidate at The Chinese University of Hong Kong, superv
 
 News
 ======
-[02/2025] Moved to Cambridge, UK and joined Cavendish Laboratory for Computational Radiotherapy /Cambridge as a visiting PhD student!  
+[02/2025] Moved to Cambridge, UK and joined Cavendish Laboratory for Computational Radiotherapy at Cambridge University as a visiting PhD student!  
 [12/2024] Glad to be supported by Overseas Research Attachment Programme (CUHK Eng, 12 awardees per year)!  
 [07/2024] 1 paper on Semi/Weakly-Supervised learning was accepted by [BIBM2024](https://ieeexplore.ieee.org/abstract/document/10822827)  
 [06/2023] 1 paper on weakly supervised learning was accepted by [MICCAI 2023](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_13)   
@@ -49,7 +49,7 @@ Honors & Awards
 [08/2021] The Chinese University of Hong Kong: CUHK Vice-Chancellor’s PhD Scholarship (HK$ 1 Million).  
 [03/2019] Outstanding Graduate at Unversity of Chinese Academy of Sciences.  
 [02/2019] Zengwei Anxin Scholarship at Chinese Academy of Sciences, Shanghai Institute of Advanced Research (Two students per year).  
-[03/2018] "three good" student at Unversity of Chinese Academy of Sciences.  
+[03/2018] "Three good" student at Unversity of Chinese Academy of Sciences.  
 
 Woring Experience
 ------
