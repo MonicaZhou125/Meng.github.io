@@ -35,7 +35,7 @@ Education
 Selected Publications
 ======
 
-1. [Weakly Supervised Medical Image Segmentation via Superpixel-guided Scribble Walking and Class-wise Contrastive Regularization], **Meng Zhou**, Zhe Xu, Kang Zhou, Raymond Tong. Medical Image Computing and Computer Assisted Interventions (MICCAI), 2023(https://link.springer.com/chapter/10.1007/978-3-031-43895-0_13).  
+1. [Weakly Supervised Medical Image Segmentation via Superpixel-guided Scribble Walking and Class-wise Contrastive Regularization](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_13), **Meng Zhou**, Zhe Xu, Kang Zhou, Raymond Tong. Medical Image Computing and Computer Assisted Interventions (MICCAI), 2023(https://link.springer.com/chapter/10.1007/978-3-031-43895-0_13).  
 2. [Boundary-Enhanced and Density-Guided Contrastive Learning for Semi/Weakly-Supervised Medical Image Segmentation],**Meng Zhou**, Fei Gao, Raymond Kai-Yu Tong, 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)(https://ieeexplore.ieee.org/abstract/document/10822827).  
 3. [Superpixel-guided class-level denoising for unsupervised domain adaptive fundus image segmentation without source data], **Meng Zhou**, Zhe Xu, Raymond Tong. Computers in Biology and Medicine 162, 107061.(https://www.sciencedirect.com/science/article/pii/S0010482523005267)  
 4. [A Noise Reduction Method for Photoacoustic Imaging In Vivo Based on EMD and Conditional Mutual Information],**M Zhou**, H Xia, H Zhong, J Zhang, F Gao,IEEE Photonics Journal 11 (1), 1-10(https://www.sciencedirect.com/science/article/pii/S0010482523005267)  
