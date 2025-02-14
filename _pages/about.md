@@ -16,8 +16,8 @@ News
 [07/2024] 1 paper on Semi/Weakly-Supervised learning was accepted by BIBM2024  
 [06/2023] 1 paper on weakly supervised learning was accepted by MICCAI 2023  
 [06/2023] 1 paper on source-free unsupervised domain adapation was accepted by Computers in Biology and Medicine (IF=7.7)!  
-[08/2021] Glad to be CUHK Vice-Chancellor's PhD Fellowship Awardee  
-[03/2019] Outstanding Graduate at Unversity of Chinese Academy of Sciences  
+[08/2021] Glad to be **CUHK Vice-Chancellor's PhD Fellowship** Awardee  
+[03/2019] **Outstanding Graduate** at Unversity of Chinese Academy of Sciences  
 [01/2019] 1 paper on De‐noising of photoacoustic sensing and imaging was accepted by Journal of biophotonics!  
 [10/2018] 1 paper on Noise Reduction Method for Photoacoustic Imaging In Vivo was accepted by IEEE Photonics Journal!  
 [03/2018] 1 paper on Wavelet de-noising method for photoacoustic tomography was accepted by EMBC 2018!
@@ -36,24 +36,34 @@ Selected Publications
 
 Honors & Awards
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+[12/2024] Overseas Research Attachment Programme Fellowship by CUHK Engineering.
+[08/2021] The Chinese University of Hong Kong: CUHK Vice-Chancellor’s PhD Scholarship (HK$ 1 Million).
+[03/2019] Outstanding Graduate at Unversity of Chinese Academy of Sciences.
+[02/2019] Zengwei Anxin Scholarship at Chinese Academy of Sciences, Shanghai Institute of Advanced Research (Two students per year).
+[03/2018] "three good" student at Unversity of Chinese Academy of Sciences.
 
-Create content & metadata
+Woring Experience
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Jul 2019 - Apr 2021 Honeywell Home Algorithm Engineer, Complete related experiments and algorithms of intelligent monitoring.
+Jul 2017 - Sep 2017 Spreadtrum Communications Campany Internship, Complete the image processing and parameters optimization of the mobile phone camera system
 
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
+Skill & Interests
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Skills: Proficient in: Python (daily usage), Shell (regular usage), Familiar with: Matlab, C and C++.
+Certifications: Certified Psychological Counselor Certificate issued by the Institute of Psychology, Chinese Academy of Sciences (CAS)，National Level 3 Public Nutritionist (China)
+Interests: Swimming, Photography, Movies, Gym;
+GRE general test: Q:170, V:153,W:3.0
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
+Teaching
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+2023-2024 Spring Linear Algebra for Engineers ((TA, ENGG1120)
+2022-2023	Fall	Big Data in Healthcare (TA, BMEG 3103)	
+2021-2022 Fall  Linear Algebra for Engineers ((TA, ENGG1120)
+2021-2022	Spring	Big Data in Healthcare (TA, BMEG 3103)
+
+Skill & Interests
+------
+Skills: Proficient in: Python (daily usage), Shell (regular usage), Familiar with: Matlab, C and C++.
+Certifications: Certified Psychological Counselor Certificate issued by the Institute of Psychology, Chinese Academy of Sciences (CAS)，National Level 3 Public Nutritionist (China)
+Interests: Swimming, Photography, Movies, Gym;
+GRE general test: Q:170, V:153,W:3.0
