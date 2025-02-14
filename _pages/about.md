@@ -25,7 +25,7 @@ News
 Education
 ------
 **Visiting Student**， the University of Cambridge Cavendish Laboratory for Computational Radiotherapy（Prof.Raj Resh) [02/2025-now]  
-**PhD in Biomedical Engineering**，The Chinese University of Hong Kong [08/2021 - now]
+**PhD in Biomedical Engineering**，The Chinese University of Hong Kong [08/2021 - now]  
 **Research areas**: Weakly supervised learning; Label-efficient learning; Deep Learning for medical image analysis  
 **M.S. in Information and signal processing**， University of Chinese Academy of Sciences [09/2016-06/2019] 
 **Visiting Student**，Shanghai Tech University of Hybird Imaging System Laboratory (Supervisor: Photoacoustic Tomography Scientist Prof. Fei Gao)[10/2017-05/2019]
