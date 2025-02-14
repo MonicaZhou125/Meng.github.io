@@ -26,7 +26,7 @@ News
 Selected Publications
 ======
 Weakly Supervised Medical Image Segmentation via Superpixel-guided Scribble Walking and Class-wise Contrastive Regularization  
-Meng Zhou, Zhe Xu, Kang Zhou, Raymond Tong.  
+**Meng Zhou**, Zhe Xu, Kang Zhou, Raymond Tong.  
 Medical Image Computing and Computer Assisted Interventions (MICCAI), 2023.
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
