@@ -47,9 +47,9 @@ Honors & Awards
 ------
 [12/2024] Overseas Research Attachment Programme Fellowship by CUHK Engineering.  
 [08/2021] The Chinese University of Hong Kong: CUHK Vice-Chancellor’s PhD Scholarship (HK$ 1 Million).  
-[03/2019] [Outstanding Graduate at Unversity of Chinese Academy of Sciences](/images/outstanding.png).  
+[03/2019] [Outstanding Graduate at Unversity of Chinese Academy of Sciences](https://github.com/MonicaZhou125/Meng.github.io/blob/master/images/outstanding.png).  
 [02/2019] Zengwei Anxin Scholarship at Chinese Academy of Sciences, Shanghai Institute of Advanced Research (Two students per year).  
-[03/2018] ["Three good" student at Unversity of Chinese Academy of Sciences](/images/tree.png).  
+[03/2018] ["Three good" student at Unversity of Chinese Academy of Sciences](https://github.com/MonicaZhou125/Meng.github.io/blob/master/images/tree.png).  
 
 Woring Experience
 ------
@@ -66,7 +66,7 @@ Teaching
 Skill & Interests
 ------
 Skills: Proficient in: Python (daily usage), Shell (regular usage), Familiar with: Matlab, C and C++.  
-Certifications: [Certified Psychological Counselor Certificate issued by the Chinese Academy of Sciences(CAS)](/images/xinli.png); [National Level 3 Public Nutritionist](/images/yingyang.png).  
+Certifications: [Certified Psychological Counselor Certificate issued by the Chinese Academy of Sciences(CAS)](https://github.com/MonicaZhou125/Meng.github.io/blob/master/images/xinli.png); [National Level 3 Public Nutritionist](https://github.com/MonicaZhou125/Meng.github.io/blob/master/images/yingyang.png).  
 Interests: Swimming, Photography, Movies, Gym.     
 GRE general test: Q:170, V:153,W:3.0  
 
