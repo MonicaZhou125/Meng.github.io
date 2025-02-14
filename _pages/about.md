@@ -13,9 +13,9 @@ News
 ======
 [02/2025] Moved to Cambridge, UK and joined Cavendish Laboratory for Computational Radiotherapy /Cambridge as a visiting PhD student!  
 [12/2024] Glad to be supported by Overseas Research Attachment Programme (CUHK Eng, 12 awardees per year)!  
-[07/2024] 1 paper on Semi/Weakly-Supervised learning was accepted by BIBM2024  
-[06/2023] 1 paper on weakly supervised learning was accepted by MICCAI 2023  
-[06/2023] 1 paper on source-free unsupervised domain adapation was accepted by Computers in Biology and Medicine (IF=7.7)!  
+[07/2024] 1 paper on Semi/Weakly-Supervised learning was accepted by [BIBM2024]  (https://ieeexplore.ieee.org/abstract/document/10822827)
+[06/2023] 1 paper on weakly supervised learning was accepted by [MICCAI 2023] (https://link.springer.com/chapter/10.1007/978-3-031-43895-0_13) 
+[06/2023] 1 paper on source-free unsupervised domain adapation was accepted by [Computers in Biology and Medicine] (IF=7.7)!  ((https://www.sciencedirect.com/science/article/pii/S0010482523005267))
 [08/2021] Glad to be **CUHK Vice-Chancellor's PhD Fellowship** Awardee  
 [03/2019] **Outstanding Graduate** at Unversity of Chinese Academy of Sciences  
 [01/2019] 1 paper on De‐noising of photoacoustic sensing and imaging was accepted by Journal of biophotonics!  
@@ -35,13 +35,13 @@ Education
 Selected Publications
 ======
 
-1. Weakly Supervised Medical Image Segmentation via Superpixel-guided Scribble Walking and Class-wise Contrastive Regularization, **Meng Zhou**, Zhe Xu, Kang Zhou, Raymond Tong. Medical Image Computing and Computer Assisted Interventions (MICCAI), 2023.
-2. Boundary-Enhanced and Density-Guided Contrastive Learning for Semi/Weakly-Supervised Medical Image Segmentation,**Meng Zhou**, Fei Gao, Raymond Kai-Yu Tong, 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM).[我的GitHub主页]([https://ieeexplore.ieee.org/abstract/document/10822827])
-3. Superpixel-guided class-level denoising for unsupervised domain adaptive fundus image segmentation without source data, **Meng Zhou**, Zhe Xu, Raymond Tong. Computers in Biology and Medicine 162, 107061.
-4. A Noise Reduction Method for Photoacoustic Imaging In Vivo Based on EMD and Conditional Mutual Information,**MZhou**, H Xia, H Zhong, J Zhang, F Gao,IEEE Photonics Journal 11 (1), 1-10
-5. Photoacoustic image classification and segmentation of breast cancer: a feasibility studyJ Zhang, B Chen, **M Zhou**, H Lan, F Gao,IEEE Access 7, 5457-5466
-6. Wavelet de-noising method with adaptive threshold selection for photoacoustic tomography,**M Zhou**, H Xia, H Lan, T Duan, H Zhong, F Gao
-2018 EMBC.
+1. [Weakly Supervised Medical Image Segmentation via Superpixel-guided Scribble Walking and Class-wise Contrastive Regularization], **Meng Zhou**, Zhe Xu, Kang Zhou, Raymond Tong. Medical Image Computing and Computer Assisted Interventions (MICCAI), 2023(https://link.springer.com/chapter/10.1007/978-3-031-43895-0_13).  
+2. [Boundary-Enhanced and Density-Guided Contrastive Learning for Semi/Weakly-Supervised Medical Image Segmentation],**Meng Zhou**, Fei Gao, Raymond Kai-Yu Tong, 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)(https://ieeexplore.ieee.org/abstract/document/10822827).  
+3. [Superpixel-guided class-level denoising for unsupervised domain adaptive fundus image segmentation without source data], **Meng Zhou**, Zhe Xu, Raymond Tong. Computers in Biology and Medicine 162, 107061.(https://www.sciencedirect.com/science/article/pii/S0010482523005267)  
+4. [A Noise Reduction Method for Photoacoustic Imaging In Vivo Based on EMD and Conditional Mutual Information],**M Zhou**, H Xia, H Zhong, J Zhang, F Gao,IEEE Photonics Journal 11 (1), 1-10(https://www.sciencedirect.com/science/article/pii/S0010482523005267)  
+5. [Photoacoustic image classification and segmentation of breast cancer: a feasibility study],J Zhang, B Chen, **M Zhou**, H Lan, F Gao,IEEE Access 7, 5457-5466, (https://www.sciencedirect.com/science/article/pii/S0010482523005267)  
+6. [Wavelet de-noising method with adaptive threshold selection for photoacoustic tomography],**M Zhou**, H Xia, H Lan, T Duan, H Zhong, F Gao
+2018 EMBC.(https://ieeexplore.ieee.org/abstract/document/8631620)
 
 
 Honors & Awards
