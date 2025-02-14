@@ -66,7 +66,10 @@ Teaching
 Skill & Interests
 ------
 Skills: Proficient in: Python (daily usage), Shell (regular usage), Familiar with: Matlab, C and C++.  
-Certifications: Certified Psychological Counselor Certificate issued by the Institute of Psychology, Chinese Academy of Sciences (CAS)，National Level 3 Public Nutritionist (China).  
+Certifications: [Certified Psychological Counselor Certificate issued by the Chinese Academy of Sciences(CAS)](图片链接)
+
+
+[![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com)Certified Psychological Counselor Certificate issued by the Chinese Academy of Sciences (CAS);National Level 3 Public Nutritionist (China).  
 Interests: Swimming, Photography, Movies, Gym.     
 GRE general test: Q:170, V:153,W:3.0  
 
