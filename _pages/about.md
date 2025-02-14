@@ -37,34 +37,28 @@ Selected Publications
 
 Honors & Awards
 ------
-[12/2024] Overseas Research Attachment Programme Fellowship by CUHK Engineering.
-[08/2021] The Chinese University of Hong Kong: CUHK Vice-Chancellor’s PhD Scholarship (HK$ 1 Million).
-[03/2019] Outstanding Graduate at Unversity of Chinese Academy of Sciences.
-[02/2019] Zengwei Anxin Scholarship at Chinese Academy of Sciences, Shanghai Institute of Advanced Research (Two students per year).
-[03/2018] "three good" student at Unversity of Chinese Academy of Sciences.
+[12/2024] Overseas Research Attachment Programme Fellowship by CUHK Engineering.  
+[08/2021] The Chinese University of Hong Kong: CUHK Vice-Chancellor’s PhD Scholarship (HK$ 1 Million).  
+[03/2019] Outstanding Graduate at Unversity of Chinese Academy of Sciences.  
+[02/2019] Zengwei Anxin Scholarship at Chinese Academy of Sciences, Shanghai Institute of Advanced Research (Two students per year).  
+[03/2018] "three good" student at Unversity of Chinese Academy of Sciences.  
 
 Woring Experience
 ------
-Jul 2019 - Apr 2021 Honeywell Home Algorithm Engineer, Complete related experiments and algorithms of intelligent monitoring.
+Jul 2019 - Apr 2021 Honeywell Home Algorithm Engineer, Complete related experiments and algorithms of intelligent monitoring.  
 Jul 2017 - Sep 2017 Spreadtrum Communications Campany Internship, Complete the image processing and parameters optimization of the mobile phone camera system
-
-Skill & Interests
-------
-Skills: Proficient in: Python (daily usage), Shell (regular usage), Familiar with: Matlab, C and C++.
-Certifications: Certified Psychological Counselor Certificate issued by the Institute of Psychology, Chinese Academy of Sciences (CAS)，National Level 3 Public Nutritionist (China)
-Interests: Swimming, Photography, Movies, Gym;
-GRE general test: Q:170, V:153,W:3.0
 
 Teaching
 ------
-2023-2024 Spring Linear Algebra for Engineers ((TA, ENGG1120)
-2022-2023	Fall	Big Data in Healthcare (TA, BMEG 3103)	
-2021-2022 Fall  Linear Algebra for Engineers ((TA, ENGG1120)
-2021-2022	Spring	Big Data in Healthcare (TA, BMEG 3103)
+2023-2024 Spring Linear Algebra for Engineers ((TA, ENGG1120)  
+2022-2023	Fall	Big Data in Healthcare (TA, BMEG 3103)  
+2021-2022 Fall  Linear Algebra for Engineers ((TA, ENGG1120)  
+2021-2022	Spring	Big Data in Healthcare (TA, BMEG 3103)  
 
 Skill & Interests
 ------
-Skills: Proficient in: Python (daily usage), Shell (regular usage), Familiar with: Matlab, C and C++.
-Certifications: Certified Psychological Counselor Certificate issued by the Institute of Psychology, Chinese Academy of Sciences (CAS)，National Level 3 Public Nutritionist (China)
-Interests: Swimming, Photography, Movies, Gym;
-GRE general test: Q:170, V:153,W:3.0
+Skills: Proficient in: Python (daily usage), Shell (regular usage), Familiar with: Matlab, C and C++.  
+Certifications: Certified Psychological Counselor Certificate issued by the Institute of Psychology, Chinese Academy of Sciences (CAS)，National Level 3 Public Nutritionist (China).  
+Interests: Swimming, Photography, Movies, Gym.     
+GRE general test: Q:170, V:153,W:3.0  
+
