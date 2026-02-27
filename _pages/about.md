@@ -15,7 +15,6 @@ News
 [12/2025] Moved to London and started my postdoctoral position at Imperial College London School of Medicine！
 [10/2025] 1 paper on on few-shot CBCT-to-CT generation using diffusion models was accepted by [Medical Physics]！
 [09/2025] 1 paper on soft robotic actuators was accepted by [Advanced Science](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202514441) (IF: 14.1, CAS Q1 Top)!
-
 [09/2025] 1 paper on weakly supervised learning was accepted by [Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S0957417425033640) (IF: 8.7, CAS Q1 Top)!
 [02/2025] Moved to Cambridge, UK and joined Cavendish Laboratory for Computational Radiotherapy at Cambridge University as a visiting PhD student!  
 [12/2024] Glad to be supported by Overseas Research Attachment Programme (CUHK Eng, 12 awardees per year)!  
