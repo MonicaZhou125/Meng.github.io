@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I received my Ph.D. from The Chinese University of Hong Kong, supervised by Prof. Raymond Tong (AIMBE Fellow), and was co-trained at the Cavendish Laboratory for Computational Radiotherapy, University of Cambridge, working with Prof. Rajesh Jena. I obtained my M.S. in Information and Signal Processing from the University of Chinese Academy of Sciences in 2019, and my B.Eng. in Biomedical Engineering from Beijing Institute of Technology in 2016. I am currently a Postdoctoral Researcher at the School of Medicine, Imperial College London. I was also a recipient of the CUHK Vice-Chancellor's PhD Fellowship.
+I received my Ph.D. from The Chinese University of Hong Kong, supervised by Prof. Raymond Tong (AIMBE Fellow), and was co-trained at the Cavendish Laboratory for Computational Radiotherapy, University of Cambridge, working with Prof. Rajesh Jena. I obtained my M.S. in Information and Signal Processing from the University of Chinese Academy of Sciences in 2019, and my B.Eng. in Biomedical Engineering from Beijing Institute of Technology in 2016. I am currently a Postdoctoral Researcher at the School of Medicine, Imperial College London. I was also a recipient of the CUHK Vice-Chancellor's PhD Fellowship.  
 
 My research focuses on advancing medical image analysis using AI to enable affordable and accurate medical decision-making. My recent work includes: 1) unsupervised domain adaptation, 2) weakly supervised learning, 3) photoacoustic imaging and its clinical applications, and 4) developing clinically deployable models for real-world medical applications.
 
