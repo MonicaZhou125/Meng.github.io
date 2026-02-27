@@ -12,6 +12,11 @@ My research is centered on advancing medical image analysis through AI to foster
 
 News
 ======
+[12/2025] Moved to London and started my postdoctoral position at Imperial College London School of Medicine！
+[12/2025] Successfully passed my PhD defense, an exciting milestone after years of research!
+[10/2025] 1 paper on on few-shot CBCT-to-CT generation using diffusion models was accepted by [Medical Physics]！
+[09/2025] 1 paper on soft robotic actuators was accepted by [Advanced Science](IF: 14.1, CAS Q1 Top) （https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202514441）！
+[09/2025] 1 paper on weakly supervised learning was accepted by [Expert Systems with Applications]（https://www.sciencedirect.com/science/article/pii/S0957417425033640）(IF: 8.7, CAS Q1 Top)！
 [02/2025] Moved to Cambridge, UK and joined Cavendish Laboratory for Computational Radiotherapy at Cambridge University as a visiting PhD student!  
 [12/2024] Glad to be supported by Overseas Research Attachment Programme (CUHK Eng, 12 awardees per year)!  
 [07/2024] 1 paper on Semi/Weakly-Supervised learning was accepted by [BIBM2024](https://ieeexplore.ieee.org/abstract/document/10822827)  
@@ -26,6 +31,7 @@ News
 
 Education
 ======
+* Postdoctoral Researcher at the School of Medicine, Imperial College London, 2025–Now
 * Visiting Student in Cavendish Laboratory for Computational Radiotherapy, the University of Cambridge, 2025 
 * **Ph.D** in Biomedical Engineering, The Chinese University of Hong Kong, 2025 (expected)
 * **M.S.** in Information and signal processing, University of Chinese Academy of Sciences 2019
@@ -35,7 +41,7 @@ Education
 
 Selected Publications
 ======
-
+* [Visual Mamba-CNN for scribble-based segmentation in weakly supervised learning for photoacoustic tomography](https://www.sciencedirect.com/science/article/pii/S0957417425033640), **Meng Zhou**, Ziyin Ren, Qinlin Tan, Xin Du, Hengrong Lan, Fei Gao, Raymond Kai-Yu Tong, Expert Systems with Applications, 2026.
 * [Weakly Supervised Medical Image Segmentation via Superpixel-guided Scribble Walking and Class-wise Contrastive Regularization](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_13), **Meng Zhou**, Zhe Xu, Kang Zhou, Raymond Tong, Medical Image Computing and Computer Assisted Interventions (MICCAI), 2023.  
 * [Boundary-Enhanced and Density-Guided Contrastive Learning for Semi/Weakly-Supervised Medical Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10822827), **Meng Zhou**, Fei Gao, Raymond Kai-Yu Tong, 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM).  
 * [Superpixel-guided class-level denoising for unsupervised domain adaptive fundus image segmentation without source data](https://www.sciencedirect.com/science/article/pii/S0010482523005267), **Meng Zhou**, Zhe Xu, Raymond Tong, Computers in Biology and Medicine 162, 107061.
